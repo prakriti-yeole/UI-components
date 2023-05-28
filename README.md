@@ -5,7 +5,8 @@
 1) Install Node.js on your computer if you haven't already.
 2) Open your terminal or command prompt and run the following command to create a new React project using Create React App:
 
-  - npx create-react-app my-app
+  `npx create-react-app my-app`
+  
 3) Replace my-app with the desired name for your project.   
 
 ## installation of Material UI 
@@ -23,11 +24,6 @@ Import the Material UI components you want to use in your application. For examp
 
 `import Button from '@mui/material/Button'; `
 
-```javascript
-function sayHello(name) {
-  console.log(`Hello, ${name}!`);
-}
-```
---------------------------------------------------------------------------
+2) In this repository various codes of components are given, by using it inside src/App.js file in your project, the component is accessible.
 
---------------------------------------------------------------------------
+
