@@ -19,11 +19,16 @@ Run one of the following commands to add Material UI to your project:
 ` yarn add @mui/material @emotion/react @emotion/styled `
 
 ## importing components
-1) Open the src/App.js file in your project.
+1) Open the src/App.js file in your project. Always add following import statement at the top of the file
+
+`import * as React from 'react';`
+
 Import the Material UI components you want to use in your application. For example, to import a Button component, add the following import statement at the top of the file:
 
 `import Button from '@mui/material/Button'; `
 
 2) In this repository various codes of components are given, by using it inside src/App.js file in your project, the component is accessible.
-
+3) to start react project use 
+   `npm start` 
+   at terminal.
 
