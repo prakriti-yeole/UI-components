@@ -48,4 +48,9 @@ Import the Material UI components you want to use in your application. For examp
  - notification_badge.js
  
  ![image](https://github.com/prakriti-yeole/UI-components/assets/114243966/27cdc29e-a941-4622-b2e7-cbc041dbc057)
+------------------------------------------------------
+
+- navigation-menu.js
+
+ ![image](https://github.com/prakriti-yeole/UI-components/assets/114243966/88125d43-a639-44f1-829f-7fc107862e52)
 
