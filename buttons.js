@@ -10,7 +10,7 @@ function App() {
     <ThemeProvider theme={theme}>
 
       {/* primary buttons */}
-      <Button color="primary" variant="outlined">primary buttons</Button>
+      <Button color="primary" variant="contained">primary buttons</Button>
 
       {/* disabled buttons */}
       <Button variant="contained" disabled>
@@ -18,10 +18,10 @@ function App() {
       </Button>
 
       {/* secondary buttons */}
-      <Button color="secondary" variant="outlined">Secondary</Button>
+      <Button color="secondary" variant="contained">Secondary</Button>
 
       {/* error buttons */}
-      <Button color="error" size="large">
+      <Button color="error" variant="outlined" size="md">
         Error
       </Button>
 
