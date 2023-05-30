@@ -33,24 +33,5 @@ Import the Material UI components you want to use in your application. For examp
    at terminal.
 
 
-----------------------------------------------------------------------------
-- buttons.js
 
-![image](https://github.com/prakriti-yeole/UI-components/assets/114243966/53872938-4db2-4374-95a2-d93da7a6b1e0)
-------------------------------------------------------------------------
-
-- loading.js
-
-![image](https://github.com/prakriti-yeole/UI-components/assets/114243966/122c5981-7342-4995-a021-c07b33e1db87)
-![image](https://github.com/prakriti-yeole/UI-components/assets/114243966/9b907f18-2ff6-4332-9178-1833c1f28ac1)
- 
- 
- - notification_badge.js
- 
- ![image](https://github.com/prakriti-yeole/UI-components/assets/114243966/27cdc29e-a941-4622-b2e7-cbc041dbc057)
-------------------------------------------------------
-
-- navigation-menu.js
-
- ![image](https://github.com/prakriti-yeole/UI-components/assets/114243966/88125d43-a639-44f1-829f-7fc107862e52)
 
