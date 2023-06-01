@@ -1,16 +1,21 @@
-
+import * as React from 'react';
 import Button from '@mui/material/Button';
 import DeleteIcon from '@mui/icons-material/Delete';
-import { createTheme, ThemeProvider } from '@mui/material/styles';
+
+
+
 
 function App() {
   return (
 
+    <div>
 
-    <ThemeProvider theme={theme}>
 
       {/* primary buttons */}
-      <Button color="primary" variant="contained">primary buttons</Button>
+      <Button
+        size="md"
+        color="primary" variant="contained"
+      >primary buttons</Button>
 
       {/* disabled buttons */}
       <Button variant="contained" disabled>
@@ -21,7 +26,7 @@ function App() {
       <Button color="secondary" variant="contained">Secondary</Button>
 
       {/* error buttons */}
-      <Button color="error" variant="outlined" size="md">
+      <Button color="error" variant="outlined" size="large">
         Error
       </Button>
 
@@ -30,8 +35,7 @@ function App() {
         Delete
       </Button>
 
-    </ThemeProvider>
-
+    </div>
   );
 }
 export default App;
